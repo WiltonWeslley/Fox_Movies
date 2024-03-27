@@ -1,0 +1,31 @@
+#navbar {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: rgba(41, 41, 216, 0.884);
+}
+
+#navbar h2 a {
+    display:flex;
+    align-items: center;
+    gap: 0.5rem ;
+}
+
+#navbar form {
+    display: flex;
+    gap: .5rem;
+}
+
+#navbar input{
+    padding: .2rem .8rem;
+    border-radius: 4px;
+    border:none;
+}
+
+#navbar form  button{
+    background-color: chartreuse;
+    border: 2px solid ;
+
+}
+
